@@ -17,6 +17,8 @@ public class Interfaz extends JFrame {
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         getContentPane().setLayout(new BorderLayout());
+        
+        //hola
 
         // ---------------- BARRA SUPERIOR ----------------
         JPanel barra = new JPanel();
